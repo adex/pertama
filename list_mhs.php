@@ -4,7 +4,7 @@ echo "<tr><th colspan=9>Daftar Mahasiswa UPI-YPTK Padang</th></tr>";
 echo "<tr>";
 echo "<td>No.</td>";
 echo "<td>Nim</td>";
-echo "<td>Nama</td>";
+echo "<td>Nama Mahasiswa</td>";
 echo "<td>Tempat Lahir</td>";
 echo "<td>Tanggal Lahir</td>";
 echo "<td>Jenis Kelamin</td>";
